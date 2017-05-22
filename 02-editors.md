@@ -81,7 +81,8 @@ Upload these 3 files to the [`editors`](editors/) folder.
 
 What terminal editor will be your preferred choice of use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+emacs because of the colored formatting and its overall coolness
+also because i used to use it a ton back in college for programming in C
 
 --
 
@@ -89,6 +90,10 @@ What terminal editor will be your preferred choice of use? How did you make your
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
- 
+A couple of weeks ago, I managed to get access to a year subscription to full access for PyCharm.
+I'm in love with the UI and the ability to install packages easily through the interpreter 
+(although it did take a bit to get off the ground at first). It provides me with autopopulate 
+super fast and good breakdowns of what i am trying to type. My most used keyboard shortcut is
+Ctrl + Shift + R which runs the current file being edited. I customized my editor by having a nice
+dark theme which is easy on my eyes, which shouldn't be exposed to such bright white from a screen
+for long periods of time.
