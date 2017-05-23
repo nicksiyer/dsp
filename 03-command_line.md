@@ -50,11 +50,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:  
 
-'ls -1' - lists the files in the directory vertically by line  
-'ls -R' - lists all files in subdirectories  
-'ls -u' - lists files by access time to show which ones have been most recently used  
-'ls -F' - lists the files and directories but flags filenames so that you can easily spot files  
-'ls -d' - lists only directories for maneuvering large folders with lots of files and only a few directories  
+`ls -1` - lists the files in the directory vertically by line  
+`ls -R` - lists all files in subdirectories  
+`ls -u` - lists files by access time to show which ones have been most recently used  
+`ls -F` - lists the files and directories but flags filenames so that you can easily spot files  
+`ls -d` - lists only directories for maneuvering large folders with lots of files and only a few directories  
 
 ---
 
