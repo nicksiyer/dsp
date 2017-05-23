@@ -19,16 +19,16 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
  
-* __pwd__ - show current working directory path  
-* __mkdir directoryname__ - creating a directory  
-* __rm -r directoryname__ - deleting a directory  
-* __touch filename__ - creating a file using `touch` command  
-* __rm filename__ deleting a file  
-* __mv oldfile newfile__ - renaming a file  
-* __ls -a__ - listing hidden files  
-* __cp oldfiledirectorywithfilename newdirectory__ - copying a file from one directory to another  
-* __output > filename__ - renders output to a file  
-* __cat filename__ - output the contents of the file to the console  
+`__pwd__` - show current working directory path  
+`__mkdir directoryname__` - creating a directory  
+`__rm -r directoryname__` - deleting a directory  
+`__touch filename__` - creating a file using `touch` command  
+`__rm filename__` deleting a file  
+`__mv oldfile newfile__` - renaming a file  
+`__ls -a__` - listing hidden files  
+`__cp oldfiledirectorywithfilename newdirectory__` - copying a file from one directory to another  
+`__output > filename__` - renders output to a file  
+`__cat filename__` - output the contents of the file to the console  
  
 
 ---  
