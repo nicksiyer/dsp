@@ -41,16 +41,20 @@ What do the following commands do:
 `ls -l`  - list the files in long format with more information  
 `ls -lh` - list the files in human readable long format    
 `ls -lah` - list all the files in the directory including those hidden in long human readable format  
-`ls -t` - list all the files in the directory by timestamp  
+`ls -t` - list all the files in the directory by timestamp (newest files first) 
 `ls -Glp` - list all files without user owner name in long format in alphabetical order  
 
 ---  
 
 ### Q3.  More List Files in Unix  
 
-Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
+Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+'ls -1' - lists the files in the directory vertically by line  
+'ls -R' - lists all files in subdirectories  
+'ls -u' - lists files by access time to show which ones have been most recently used  
+'ls -F' - lists the files and directories but flags filenames so that you can easily see which is a working directory and which is a file  
+'ls -d' - lists only directories for maneuvering large folders with lots of files and only a few directories  
 
 ---
 
@@ -58,7 +62,7 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> REPLACE THIS TEXT WITH YOUR RESPONSE
 
  
 
