@@ -19,32 +19,32 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
  
-* __pwd__ - show current working directory path
-* __mkdir directoryname__ - creating a directory
-* __rm -r directoryname__ - deleting a directory
-* __touch filename__ - creating a file using `touch` command
-* __rm filename__ deleting a file
-* __mv oldfile newfile__ - renaming a file
-* __ls -a__ - listing hidden files
-* __cp oldfiledirectorywithfilename newdirectory__ - copying a file from one directory to another
-* __output > filename__ - renders output to a file
-* __cat filename__ - output the contents of the file to the console
+* __pwd__ - show current working directory path  
+* __mkdir directoryname__ - creating a directory  
+* __rm -r directoryname__ - deleting a directory  
+* __touch filename__ - creating a file using `touch` command  
+* __rm filename__ deleting a file  
+* __mv oldfile newfile__ - renaming a file  
+* __ls -a__ - listing hidden files  
+* __cp oldfiledirectorywithfilename newdirectory__ - copying a file from one directory to another  
+* __output > filename__ - renders output to a file  
+* __cat filename__ - output the contents of the file to the console  
  
 
----
+---  
 
 ### Q2.  List Files in Unix   
 
 What do the following commands do:  
-`ls`  - list the files in the directory
-`ls -a`  - list the files in the directory including those that are hidden
-`ls -l`  - list the files in long format with more information
-`ls -lh`  
-`ls -lah`  
-`ls -t`  
-`ls -Glp`  
+`ls`  - list the files in the directory  
+`ls -a`  - list the files in the directory including those that are hidden  
+`ls -l`  - list the files in long format with more information  
+`ls -lh` - list the files in human readable long format    
+`ls -lah` - list all the files in the directory including those hidden in long human readable format  
+`ls -t` - list all the files in the directory by timestamp  
+`ls -Glp` - list all files without user owner name in long format in alphabetical order  
 
----
+---  
 
 ### Q3.  More List Files in Unix  
 
