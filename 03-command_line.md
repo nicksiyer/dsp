@@ -41,7 +41,7 @@ What do the following commands do:
 `ls -l`  - list the files in long format with more information  
 `ls -lh` - list the files in human readable long format    
 `ls -lah` - list all the files in the directory including those hidden in long human readable format  
-`ls -t` - list all the files in the directory by timestamp (newest files first) 
+`ls -t` - list all the files in the directory by timestamp (newest files first)  
 `ls -Glp` - list all files without user owner name in long format in alphabetical order  
 
 ---  
