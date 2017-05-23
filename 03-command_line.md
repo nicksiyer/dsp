@@ -18,23 +18,31 @@ Here's a list of items with which you should be familiar:
 * copying a file from one directory to another
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
-
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+ 
+ __pwd__ - show current working directory path
+ __mkdir directoryname__ - creating a directory
+ __rm -r directoryname__ - deleting a directory
+ __touch filename__ - creating a file using `touch` command
+ __rm filename__ deleting a file
+ __mv oldfile newfile__ - renaming a file
+ __ls -a__ - listing hidden files
+ __cp oldfiledirectorywithfilename newdirectory__ - copying a file from one directory to another
+ __output > filename__ - renders output to a file
+ __cat filename__ - output the contents of the file to the console
+ 
 
 ---
 
 ### Q2.  List Files in Unix   
 
 What do the following commands do:  
-`ls`  
-`ls -a`  
-`ls -l`  
+`ls`  - list the files in the directory
+`ls -a`  - list the files in the directory including those that are hidden
+`ls -l`  - list the files in long format with more information
 `ls -lh`  
 `ls -lah`  
 `ls -t`  
 `ls -Glp`  
-
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
