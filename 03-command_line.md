@@ -62,7 +62,7 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-'xargs' 
+`xargs` - splits the commands inputted into the prompt into multiple subcommands with modifiers or functions performed on a list of parameters. For example: if I wished to remove multiple files, instead of typing 3 separate commands `rm file1`,`rm file2`,`rm file3`, I can just type `find file1 file2 file3 | xargs rm` and it will find and remove those 3 files.
 
  
 
